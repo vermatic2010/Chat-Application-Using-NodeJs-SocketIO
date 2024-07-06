@@ -1,5 +1,5 @@
 # BASIC WhatsApp CLONE
-This is a basic WhatsApp clone for group of users to discuss on any topic. A notification sound also comes when someone leaves the chat or joins it or sends messages.
+A chat application built using Socket.IO that enables real-time bidirectional event-based communication, featuring group chat capabilities, message notifications, and alerts when someone joins or leaves the chat.
 
 # ON TERMINAL 
 git clone https://github.com/vermatic2010/Chat-Application-Using-NodeJs-SocketIO.git
